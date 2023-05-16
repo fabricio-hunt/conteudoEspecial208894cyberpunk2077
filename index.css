@@ -85,6 +85,8 @@ margin-bottom: 45px;
 
 .carrossel{
     height: auto;
+    object-fit: cover;
+    
 }
 
 
@@ -126,6 +128,14 @@ margin-bottom: 45px;
     text-align: justify;
     width: 50%;
     word-wrap: break-word;
+}
+
+
+.btn:hover{
+
+    background-color: rgb(0, 71, 142) ;
+
+
 }
 
  
